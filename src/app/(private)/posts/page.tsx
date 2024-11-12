@@ -1,5 +1,5 @@
 import React from 'react';
-import PostsComponent from "@/app/components/PostsComponent";
+import PostsComponent from "@/app/components/posts/PostsComponent";
 
 
 

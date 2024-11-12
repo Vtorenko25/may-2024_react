@@ -1,5 +1,5 @@
 import React from 'react';
-import UsersComponent from "@/app/components/UsersComponent";
+import UsersComponent from "@/app/components/users/UsersComponent";
 
 
 const UsersPage = async () => {

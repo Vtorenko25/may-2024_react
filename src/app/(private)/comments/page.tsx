@@ -1,5 +1,5 @@
 import React from 'react';
-import CommentsComponent from "@/app/components/CommentsComponent";
+import CommentsComponent from "@/app/components/comments/CommentsComponent";
 
 
 
